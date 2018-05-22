@@ -6,7 +6,7 @@
 .header {
     background-color: tomato;
     color: white;
-    padding: 10px;
+    padding: 12px;
 }
 </style>
 </head>
